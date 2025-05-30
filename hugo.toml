@@ -1,0 +1,20 @@
+baseURL = "https://Tercet.Tech"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Tercet Tech" 
+    description = "We're revamping our entire site as part of an exciting rebranding initiative!"
+    favicon = ""
+    message = "Big changes are coming!" 
+    release = "July 1, 2025"
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "WebDev@Tercet.Tech"},
+    {name = "linkedin", url = "https://linkedin.com/company/tercet-tech"},    
+] 
+
+[params.twitter]
+	enable = false 
+	username = ""
